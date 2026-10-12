@@ -1,0 +1,5353 @@
+[
+    {
+        "id": "si_bf_1",
+        "name": "Idli with Sambar (No Coconut Chutney)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC144",
+            "ASC167"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Idli",
+            "Sambar"
+        ]
+    },
+    {
+        "id": "si_bf_2",
+        "name": "Ragi Idli",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "A010"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Ragi"
+        ]
+    },
+    {
+        "id": "si_bf_3",
+        "name": "Godhuma (Wheat) Rava Upma with Veggies",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP039"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Semolina upma (Suji/Rava upma)"
+        ]
+    },
+    {
+        "id": "si_bf_4",
+        "name": "Pesarattu (Green Gram Dosa)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "si_bf_5",
+        "name": "Millet Pongal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "si_ln_1",
+        "name": "Brown Rice + Sambar + Cabbage Poriyal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "A013",
+            "ASC167"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown",
+            "Sambar"
+        ]
+    },
+    {
+        "id": "si_ln_2",
+        "name": "Curd Rice with Pomegranate",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "si_ln_3",
+        "name": "Foxtail Millet Rice + Keerai (Spinach) Kootu",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "si_ln_4",
+        "name": "Chapati (2) + Chickpea Curry (Chana)",
+        "region": [
+            "South India",
+            "North India"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC240"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chicken curry"
+        ]
+    },
+    {
+        "id": "si_ln_5",
+        "name": "Vegetable Biryani (Less Rice, More Veggies)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP207"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable yakhni"
+        ]
+    },
+    {
+        "id": "si_dn_1",
+        "name": "Snake Gourd Kootu + 1 Phulka",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "D007",
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Bottle gourd, elongate, pale green",
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "si_dn_2",
+        "name": "Bottle Gourd Soup + Grilled Paneer",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "D007"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Bottle gourd, elongate, pale green"
+        ]
+    },
+    {
+        "id": "sn_1",
+        "name": "Soaked Almonds (5) & Walnuts (2)",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "H001"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Almond"
+        ]
+    },
+    {
+        "id": "sn_2",
+        "name": "Sundal (Boiled Chickpeas)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_bf_1",
+        "name": "Kambu (Pearl Millet) Koozh with Small Onions",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "G018"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Onion, small"
+        ]
+    },
+    {
+        "id": "tn_bf_2",
+        "name": "Thinai (Foxtail Millet) Pongal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_bf_3",
+        "name": "Adai (Lentil Dosa) with Avial",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC219"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Avial"
+        ]
+    },
+    {
+        "id": "tn_bf_4",
+        "name": "Idiyappam with Vegetable Stew (Sodhi)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC366"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable cutlet"
+        ]
+    },
+    {
+        "id": "tn_bf_5",
+        "name": "Varagu (Kodo Millet) Arisi Upma",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_bf_6",
+        "name": "Ragi Semiya (Vermicelli) Upma",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP040"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vermicelli upma (Semiya/Seviyan upma)"
+        ]
+    },
+    {
+        "id": "tn_bf_7",
+        "name": "Kal Dosa (Soft Sponge Dosa) with Mint Chutney",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP148",
+            "ASC387"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plain dosa",
+            "Mint and coriander chutney (Pudinay aur dhaniye ki chutney)"
+        ]
+    },
+    {
+        "id": "tn_ln_1",
+        "name": "Samai (Little Millet) Curd Rice + Pomegranate",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC126",
+            "ASC126"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)",
+            "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)"
+        ]
+    },
+    {
+        "id": "tn_ln_2",
+        "name": "Brown Rice + Drumstick Sambar + Plantain Stem Poriyal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "A013",
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown",
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "tn_ln_3",
+        "name": "Keerai (Spinach) Masiyal + Rice + Roasted Yam",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "C033",
+            "A014",
+            "F017"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Spinach",
+            "Rice, parboiled, milled",
+            "Yam, elephant"
+        ]
+    },
+    {
+        "id": "tn_ln_4",
+        "name": "Karakuzhambu (Turkey Berry) + Rice + Cabbage Kootu",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_ln_5",
+        "name": "Lemon Rice (Made with Broken Wheat) + Pan-fried Vazhakkai",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "E033",
+            "D062"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Lemon, juice",
+            "Plantain, flower"
+        ]
+    },
+    {
+        "id": "tn_ln_6",
+        "name": "Paruppu Usili (Lentil crumble) + Rasam Sadam",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP176"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru)"
+        ]
+    },
+    {
+        "id": "tn_ln_7",
+        "name": "Vegetable Biryani (Seeraga Samba) + Raita",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP207",
+            "ASC273"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable yakhni",
+            "Cucumber raita (Kheere ka raita)"
+        ]
+    },
+    {
+        "id": "tn_dn_1",
+        "name": "Chapati (2) + Bottle Gourd (Sorakkai) Kootu",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC096",
+            "D007"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti",
+            "Bottle gourd, elongate, pale green"
+        ]
+    },
+    {
+        "id": "tn_dn_2",
+        "name": "Godhuma (Wheat) Dosa with Tomato Thokku",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_dn_3",
+        "name": "Appam (No coconut milk center) + Veg Kurma",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP153"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Appam"
+        ]
+    },
+    {
+        "id": "tn_dn_4",
+        "name": "Broken Wheat (Dalia) Kichadi with Vegetables",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC480"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable soup"
+        ]
+    },
+    {
+        "id": "tn_dn_5",
+        "name": "Panakam (Jaggery Water) + 2 Idli",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC144"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Idli"
+        ]
+    },
+    {
+        "id": "tn_dn_6",
+        "name": "Rava Upma with Green Peas and Carrots",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP039"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Semolina upma (Suji/Rava upma)"
+        ]
+    },
+    {
+        "id": "tn_sn_1",
+        "name": "Konda Kadalai (Black Chana) Sundal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_sn_2",
+        "name": "Spiced Neer Mor (Buttermilk)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_sn_3",
+        "name": "Masala Pori (Puffed Rice with Veggies)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP264"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Masala arbi"
+        ]
+    },
+    {
+        "id": "tn_sn_4",
+        "name": "Pattani (Green Peas) Sundal",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "tn_sn_5",
+        "name": "Vazhaithandu (Plantain Stem) Soup",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "D064"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plantain, stem"
+        ]
+    },
+    {
+        "id": "tn_sn_6",
+        "name": "Ellu Urundai (Sesame Ball - Small portion)",
+        "region": [
+            "South India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC344"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sesame ladoo (Til ke ladoo)"
+        ]
+    },
+    {
+        "id": "kl_bf_1",
+        "name": "Puttu (Ragi/Wheat) with Kadala Curry",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_bf_2",
+        "name": "Appam (Fermented) with Vegetable Stew",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP153",
+            "ASC366"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Appam",
+            "Vegetable cutlet"
+        ]
+    },
+    {
+        "id": "kl_bf_3",
+        "name": "Idiyappam (String Hoppers) with Egg Roast / Chickpea Curry",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC162"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chickpeas curry (Safed channa curry)"
+        ]
+    },
+    {
+        "id": "kl_bf_4",
+        "name": "Gothambu (Broken Wheat) Kanji with Payar (Green Gram)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "B010"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Green gram, dal"
+        ]
+    },
+    {
+        "id": "kl_bf_5",
+        "name": "Dosa with Chammanthi (Roasted Coconut Chutney)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP148"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plain dosa"
+        ]
+    },
+    {
+        "id": "kl_bf_6",
+        "name": "Mutta (Egg) Surka/Roast with 2 Whole Wheat Chapatis",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC472"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Paushtik roti"
+        ]
+    },
+    {
+        "id": "kl_ln_1",
+        "name": "Matta Rice (Portion Controlled) + Moru Curry + Thoran",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC179"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Beans with coconut (Nariyal aur sem/phali; Beans thoran)"
+        ]
+    },
+    {
+        "id": "kl_ln_2",
+        "name": "Olan (Ash Gourd & Cowpeas) + Red Rice",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_ln_3",
+        "name": "Avial (Mixed Veggies) + Rice + Unakkalari (Payasam rice - small cup)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC219",
+            "ASC113"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Avial",
+            "Boiled rice (Uble chawal)"
+        ]
+    },
+    {
+        "id": "kl_ln_4",
+        "name": "Kappa (Tapioca) - Boiled & Drained + Fish Curry (Meen Curry)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "F015"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Tapioca"
+        ]
+    },
+    {
+        "id": "kl_ln_5",
+        "name": "Vegetable Thoran (Cabbage/Beans) + Curd Rice",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP045",
+            "ASC126"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable poha",
+            "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)"
+        ]
+    },
+    {
+        "id": "kl_ln_6",
+        "name": "Meen Mulakittathu (Fish in Red Chilli/Kudampuli) + Matta Rice",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_dn_1",
+        "name": "Kanji (Rice Gruel) + Payar (Green Gram) + Pickle",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "B010",
+            "OSR052"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Green gram, dal",
+            "Garlic pickle (Lahasun ka achar)"
+        ]
+    },
+    {
+        "id": "kl_dn_2",
+        "name": "Chembu (Taro Root) Asthram + 1 Chapati",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "kl_dn_3",
+        "name": "Pathiri (Rice Roti) + Veg Kurma",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "High",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_dn_4",
+        "name": "Oats Upma with Curry Leaves",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "G010"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Curry leaves"
+        ]
+    },
+    {
+        "id": "kl_dn_5",
+        "name": "Godhuma (Wheat) Dosa + Onion Chutney",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_sn_1",
+        "name": "Ada (Steamed Rice Parcel) with Jaggery (Small Piece)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "I001"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Jaggery, cane"
+        ]
+    },
+    {
+        "id": "kl_sn_2",
+        "name": "Nendran Banana (Steamed) - 1/2 Piece",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_sn_3",
+        "name": "Aval Vilayichathu (Beaten Rice with Jaggery) - Small Bowl",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "High",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "kl_sn_4",
+        "name": "Kappa Chips (Baked/Air Fried)",
+        "region": [
+            "Kerala"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "High",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_bf_1",
+        "name": "Ragi Mudde with Soppu Saaru (Green Leafy Stew)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_bf_2",
+        "name": "Akki Roti (Dill Leaf & Cucumber - Portion Controlled)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_bf_3",
+        "name": "Jolada (Jowar) Roti with Enneayi (Brinjal Curry)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_bf_4",
+        "name": "Bisi Bele Bath (Made with Foxtail Millet/Navane)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_bf_5",
+        "name": "Set Dosa (Sponge Dosa) with Saagu",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP148"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plain dosa"
+        ]
+    },
+    {
+        "id": "ka_bf_6",
+        "name": "Neer Dosa with Spiced Grated Coconut",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_ln_1",
+        "name": "Jolada Ganji (Sorghum Porridge) + Buttermilk",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_ln_2",
+        "name": "Brown Rice + Bassaru (Drained Greens Broth) + Palya",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "ka_ln_3",
+        "name": "Huli Anna (Sambar Rice) with Pumpkin & Beans",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_ln_4",
+        "name": "Sajje (Bajra) Roti + Garlic Chutney + Mixed Veg Palya",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_ln_5",
+        "name": "Menthe (Fenugreek) Pulao with Brown Rice + Raita",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC273"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Cucumber raita (Kheere ka raita)"
+        ]
+    },
+    {
+        "id": "ka_ln_6",
+        "name": "Ragi Mudde + Koli Saaru (Country Chicken Curry)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_dn_1",
+        "name": "Wheat Rava (Dalia) Kitchadi with Beans and Carrots",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_dn_2",
+        "name": "Majjige Huli (Buttermilk Kadhi) with 1 Roti",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_dn_3",
+        "name": "Ragi Ambari (Savory Ragi Malt)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_sn_1",
+        "name": "Heerekayi (Ridge Gourd) Peel Chutney with 1 Idli",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC144"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Idli"
+        ]
+    },
+    {
+        "id": "ka_sn_2",
+        "name": "Avalakki (Poha) with Sprouts",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP044"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Poha"
+        ]
+    },
+    {
+        "id": "ka_sn_3",
+        "name": "Girmit (North Karnataka style Puffed Rice - Low Oil)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_sn_4",
+        "name": "Roasted Groundnuts (Small portion)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ka_sn_5",
+        "name": "Kosambari (Moong Dal Salad)",
+        "region": [
+            "Karnataka"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC170"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sprouted moong dal chat"
+        ]
+    },
+    {
+        "id": "ap_bf_1",
+        "name": "Pesarattu (Whole Green Moong Dosa) with Allam (Ginger) Chutney",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_bf_2",
+        "name": "Dibba Rotti (Minapa Rotti - Slow Cooked)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_bf_3",
+        "name": "Jonna (Jowar) Pelala Pelu (Sorghum Flakes Upma)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_bf_4",
+        "name": "Uggani (Spiced Puffed Rice) with Roasted Chana Powder",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "OSR002"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sattu drink"
+        ]
+    },
+    {
+        "id": "ap_bf_5",
+        "name": "Upma Pesarattu (MLA Pesarattu - Small Portion Upma)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP039"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Semolina upma (Suji/Rava upma)"
+        ]
+    },
+    {
+        "id": "ap_ln_1",
+        "name": "Gongura Pappu (Sorrel Leaves Dal) + Brown Rice + Dondakaya Fry",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "ap_ln_2",
+        "name": "Jonna Jonnalu (Whole Jowar Grain Rice) + Tomato Charu",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_ln_3",
+        "name": "Muddapappu (Thick Dal) + Avakaya (Small portion) + Rice + Ghee",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC113",
+            "T013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Boiled rice (Uble chawal)",
+            "Ghee"
+        ]
+    },
+    {
+        "id": "ap_ln_4",
+        "name": "Pachi Pulusu (Raw Tamarind Stew) + Sajje (Bajra) Sankati",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_ln_5",
+        "name": "Menthi Akura Pappu (Fenugreek Leaf Dal) + 1 Multigrain Roti",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_ln_6",
+        "name": "Natukodi Pulusu (Country Chicken Curry) + Jonna Sankati",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC240"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chicken curry"
+        ]
+    },
+    {
+        "id": "ap_dn_1",
+        "name": "Korralu (Foxtail Millet) Kichadi with Ginger & Veggies",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_dn_2",
+        "name": "Oats Idli with Karappodi (Spice Powder)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC144"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Idli"
+        ]
+    },
+    {
+        "id": "ap_dn_3",
+        "name": "Aratikaaya (Raw Banana) Soup + 1 Phulka",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "ap_sn_1",
+        "name": "Guggillu (Spiced Boiled Black Chickpeas/Chana)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_sn_2",
+        "name": "Pappu Chekkalu (Baked version - 2 pieces)",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_sn_3",
+        "name": "Spiced Corn (Mokkajonna) - Roasted",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ap_sn_4",
+        "name": "Tender Coconut Water with Pulp",
+        "region": [
+            "Andhra",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "K002"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Coconut Water"
+        ]
+    },
+    {
+        "id": "ap_sn_5",
+        "name": "Chepala Vepudu (Shallow Fried Fish) - 1 Piece",
+        "region": [
+            "Andhra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC247"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Fried fish (Indian style) (Tali hui machli)"
+        ]
+    },
+    {
+        "id": "mh_bf_1",
+        "name": "Thalipeeth (Multigrain Pancake) with White Butter/Curd",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC063"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Pancake"
+        ]
+    },
+    {
+        "id": "mh_bf_2",
+        "name": "Kanda Poha with Sprouted Moong",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP044",
+            "ASC151"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Poha",
+            "Washed moong dal (Dhuli moong ki dal)"
+        ]
+    },
+    {
+        "id": "mh_bf_3",
+        "name": "Moong Dal Idli / Amboli with Coconut-Garlic Chutney",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC386"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Coconut chutney (Nariyal ki chutney)"
+        ]
+    },
+    {
+        "id": "mh_bf_4",
+        "name": "Upma (Sajgura - Bajra Rava) with Mixed Vegetables",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP039",
+            "BFP074"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Semolina upma (Suji/Rava upma)",
+            "Mixed vegetable soup"
+        ]
+    },
+    {
+        "id": "mh_bf_5",
+        "name": "Dashmi (Spiced Whole Wheat & Gram Flour Roti) + Curd",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_bf_6",
+        "name": "Misal Pav (Sprouted Moth Beans) - Low Oil/Spice Version",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Breakfast",
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_ln_1",
+        "name": "Jowar Bhakri + Methi Chi Patal Bhaji (Spinach/Fenugreek Stew)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_ln_2",
+        "name": "Bajra Bhakri + Matki Usal (Sprouted Moth Beans)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_ln_3",
+        "name": "Varun-Bhaat (Brown Rice) + Toor Dal + Dodka (Ridge Gourd) Bhaji",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013",
+            "D007"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown",
+            "Bottle gourd, elongate, pale green"
+        ]
+    },
+    {
+        "id": "mh_ln_4",
+        "name": "Pithla (Gram Flour Stew) + Small portion Bhakri + Thecha (Green Chilli)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_ln_5",
+        "name": "Masale Bhaat (Using Brown Rice / Dalia) + Mixed Veggies",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_ln_6",
+        "name": "Malvani Chicken Curry (Spicy) + Jowar Bhakri",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC240"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chicken curry"
+        ]
+    },
+    {
+        "id": "mh_dn_1",
+        "name": "Moong Dal Khichdi (Plain/Vegetable) + Roasted Papad",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP144"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plain khitchdi (Plain khichri/khichdi)"
+        ]
+    },
+    {
+        "id": "mh_dn_2",
+        "name": "Multigrain Chapati + Bharli Vangi (Stuffed Eggplant - Low Oil)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP132"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Eggplant/Brinjal rice (Vangi bhat)"
+        ]
+    },
+    {
+        "id": "mh_dn_3",
+        "name": "Kadhi (Buttermilk based) + 1 Multigrain Phulka",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC168"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Besan kadhi with pakodies"
+        ]
+    },
+    {
+        "id": "mh_sn_1",
+        "name": "Koshimbir (Cucumber & Peanut Salad)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_sn_2",
+        "name": "Bhajani Chakli (Air Fried / Baked - 2 pieces)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "mh_sn_3",
+        "name": "Roasted Rajgira (Amaranth) Ladoo (No Sugar - Jaggery used)",
+        "region": [
+            "Maharashtra"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR021"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Amaranth ladoo (Rajgira ladoo)"
+        ]
+    },
+    {
+        "id": "mh_sn_4",
+        "name": "Sol Kadhi (Kokum & Coconut Milk Drink)",
+        "region": [
+            "Maharashtra",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_bf_1",
+        "name": "Methi Thepla (Multigrain) with Plain Curd",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "OSR104"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Methi thepla"
+        ]
+    },
+    {
+        "id": "gj_bf_2",
+        "name": "Khaman Dhokla (Steamed Besan) - No Sugar Tadka",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP439"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Khaman (dhokla)"
+        ]
+    },
+    {
+        "id": "gj_bf_3",
+        "name": "Mixed Dal Handvo (Baked Savory Cake) with Veggies",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR146"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Gujarati handvo "
+        ]
+    },
+    {
+        "id": "gj_bf_4",
+        "name": "Fafda (Baked version) with Papaya Sambharo",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_bf_5",
+        "name": "Bajra Na Rotla with Garlic Chutney",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "OSR080"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Garlic chutney/Poondu chutney (Lahasun ki chutney)"
+        ]
+    },
+    {
+        "id": "gj_ln_1",
+        "name": "Gujarati Dal (No Sugar) + Brown Rice + Bhindi Sambhariya",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013",
+            "BFP269"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown",
+            "Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)"
+        ]
+    },
+    {
+        "id": "gj_ln_2",
+        "name": "Vagharelo Bajra Rotlo (Crumbled Pearl Millet with Curd)",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_ln_3",
+        "name": "Sev Tameta Nu Shaak (Low Salt) + 1 Multigrain Phulka",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_ln_4",
+        "name": "Panchmel Dal + Brown Rice + Ringan No Oro (Baingan Bharta)",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR144",
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Panchmel dal",
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "gj_ln_5",
+        "name": "Undhiyu (Steamed - Low Oil) - No Tals/Sugar",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_ln_6",
+        "name": "Soya Chunk & Peas Curry (Gujarati Style) + 2 Phulka",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "gj_dn_1",
+        "name": "Vaghareli Khichdi (Moong Dal & Vegetables)",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP144"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Plain khitchdi (Plain khichri/khichdi)"
+        ]
+    },
+    {
+        "id": "gj_dn_2",
+        "name": "Doodhi Nu Shaak (Bottle Gourd) + 1 Bajra Phulka",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC472"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Paushtik roti"
+        ]
+    },
+    {
+        "id": "gj_dn_3",
+        "name": "Kadhi (Gujarati Style - Spicy/Sour) + 1 Thepla",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "OSR104"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Methi thepla"
+        ]
+    },
+    {
+        "id": "gj_sn_1",
+        "name": "Khakhra (Whole Wheat/Millet) - Roasted",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_sn_2",
+        "name": "Steamed Muthiya (Bottle Gourd & Fenugreek)",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_sn_3",
+        "name": "Masala Chaas (Spiced Buttermilk)",
+        "region": [
+            "Gujarat",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_sn_4",
+        "name": "Roasted Chana (Mamra)",
+        "region": [
+            "Gujarat",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gj_sn_5",
+        "name": "Patra (Colocasia Leaves) - Steamed & Tempered (Low Oil)",
+        "region": [
+            "Gujarat"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_bf_1",
+        "name": "Chirer Poha (Flattened Rice) with Veggies & Peanuts",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP044"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Poha"
+        ]
+    },
+    {
+        "id": "ei_bf_2",
+        "name": "Dalia Khichuri with Mixed Vegetables",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC490",
+            "BFP074"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Cracked wheat khichri/khichdi (Dalia khichri/khichdi)",
+            "Mixed vegetable soup"
+        ]
+    },
+    {
+        "id": "ei_bf_3",
+        "name": "Sattu Ka Paratha (Baked/Dry) with Baingan Bharta",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_bf_4",
+        "name": "Koraishutir (Peas) Kochuri - Baked version",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_bf_5",
+        "name": "Muri (Puffed Rice) with Sprouted Moong & Coconut",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_ln_1",
+        "name": "Brown Rice + Machher Jhol (Light Fish Stew with Veggies)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "ei_ln_2",
+        "name": "Dalia + Dalma (Odisha style Lentils with Vegetables)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR141",
+            "OSR141"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Dalma",
+            "Dalma"
+        ]
+    },
+    {
+        "id": "ei_ln_3",
+        "name": "Lau Ghonto (Bottle Gourd) + Rice + Musur Dal",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC113"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Boiled rice (Uble chawal)"
+        ]
+    },
+    {
+        "id": "ei_ln_4",
+        "name": "Shukto (Bitter Mixed Veg) + 1 Multigrain Roti",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC472"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Paushtik roti"
+        ]
+    },
+    {
+        "id": "ei_ln_5",
+        "name": "Posto (Poppy Seed) Bora (Baked) + Red Rice + Biulir Dal",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": false,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "ei_ln_6",
+        "name": "Bamboo Shoot Curry (Sour) + Steam Rice",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "D002"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Bamboo shoot, tender"
+        ]
+    },
+    {
+        "id": "ei_dn_1",
+        "name": "Potoler (Pointed Gourd) Dorma - Steamed + 1 Phulka",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "ei_dn_2",
+        "name": "Vegetable Stew (Bengali Style) with 1 Slice Multigrain Toast",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC366"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable cutlet"
+        ]
+    },
+    {
+        "id": "ei_dn_3",
+        "name": "Chhanar Dalna (Homemade Paneer/Chenna) - No Potato",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_dn_4",
+        "name": "Litti (Baked Whole Wheat Balls) + Baingan Chokha (No Ghee Dip)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Dinner",
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_sn_1",
+        "name": "Jhal Muri (No Oil, extra Sprouts)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_sn_2",
+        "name": "Sattu Drink (Savory with Jeera and Black Salt)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR002"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sattu drink"
+        ]
+    },
+    {
+        "id": "ei_sn_3",
+        "name": "Baked Nimki (Whole Wheat - 2 pieces)",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ei_sn_4",
+        "name": "Ghugni (Yellow Peas Curry) - Small Bowl",
+        "region": [
+            "East India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_bf_1",
+        "name": "Missi Roti (Wheat + Besan) with Plain Curd",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_bf_2",
+        "name": "Vegetable Daliya (Broken Wheat) with Moong Dal",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC151"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Washed moong dal (Dhuli moong ki dal)"
+        ]
+    },
+    {
+        "id": "ni_bf_3",
+        "name": "Paneer Bhurji (Low Fat) with 1 Multigrain Phulka",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC472"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Paushtik roti"
+        ]
+    },
+    {
+        "id": "ni_bf_4",
+        "name": "Moong Dal Chilla with Mint-Coriander Chutney",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP046"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla)"
+        ]
+    },
+    {
+        "id": "ni_bf_5",
+        "name": "Stuffed Gobi/Mooli Paratha (Tandoori/Dry) + 1 cup Curd",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": false,
+            "elderly_friendly": false,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC099"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Radish parantha/paratha (Mooli ka parantha/paratha)"
+        ]
+    },
+    {
+        "id": "ni_ln_1",
+        "name": "Baingan Bharta + 2 Multigrain Rotis + Boondi Raita",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC472",
+            "ASC277"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Paushtik roti",
+            "Boondi raita"
+        ]
+    },
+    {
+        "id": "ni_ln_2",
+        "name": "Sarson Ka Saag (No Makhan) + 1 small Makki Roti",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC217",
+            "ASC150"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sarson ka saag",
+            "Makki ki roti"
+        ]
+    },
+    {
+        "id": "ni_ln_3",
+        "name": "Rajma (Kidney Beans) + Brown Rice + Cucumber Salad",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "B020",
+            "A013"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Rajmah, red",
+            "Rice, raw, brown"
+        ]
+    },
+    {
+        "id": "ni_ln_4",
+        "name": "Lauki (Bottle Gourd) Kofta Curry (Steamed) + 1 Phulka",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC205",
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Ghiya/Lauki Kofta Curry",
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "ni_ln_5",
+        "name": "Yellow Moong Dal Tadka + 1 Multigrain Roti + Bhindi Do Pyaza",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP178",
+            "ASC096",
+            "BFP269"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Green gram whole with baghar (Sabut moong dal with tadka)",
+            "Chapati/Roti",
+            "Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)"
+        ]
+    },
+    {
+        "id": "ni_ln_6",
+        "name": "Chicken Curry (Home Style/Low Oil) + 2 Phulka",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC240",
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chicken curry",
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "ni_dn_1",
+        "name": "Mix Veg Soup + 1 Besan Chilla",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "BFP570"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Besan bathua chilla/cheela"
+        ]
+    },
+    {
+        "id": "ni_dn_2",
+        "name": "Tinda (Apple Gourd) Sabzi + 1 Oat-Wheat Phulka",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_dn_3",
+        "name": "Paneer Tikka (Grilled - 4 pieces) + Salad",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Dinner",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": true,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_dn_4",
+        "name": "Nutrela (Soya Chunks) Pulao with Raita",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC273"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Cucumber raita (Kheere ka raita)"
+        ]
+    },
+    {
+        "id": "ni_sn_1",
+        "name": "Roasted Makhana (Fox Nuts) with Black Pepper",
+        "region": [
+            "North India",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_sn_2",
+        "name": "Spiced Buttermilk (Chaas) with Roasted Jeera",
+        "region": [
+            "North India",
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_sn_3",
+        "name": "Boiled Kala Chana (Black Chickpeas) Chaat",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "ni_sn_4",
+        "name": "Shakarkandi (Sweet Potato) Chaat - Steamed",
+        "region": [
+            "North India"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": true,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_bf_1",
+        "name": "Masala Oats with Saut\u00e9ed Vegetables",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_bf_2",
+        "name": "Vegetable Poha with extra Peas and Carrots",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "BFP045",
+            "D061"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable poha",
+            "Peas, fresh"
+        ]
+    },
+    {
+        "id": "gen_bf_3",
+        "name": "Multigrain Porridge (Dalia/Lapsi) - Savory",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Breakfast",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC486"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sweet wheat porridge (Sweet dalia)"
+        ]
+    },
+    {
+        "id": "gen_bf_4",
+        "name": "Sprouted Moong Salad with Lemon & Chaat Masala",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Breakfast",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": false,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC259"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sprouted moong salad "
+        ]
+    },
+    {
+        "id": "gen_ln_1",
+        "name": "Quinoa Dal Khichdi with Spinach",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Lunch",
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "OSR107",
+            "C033"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Quinoa khichdi/khichri",
+            "Spinach"
+        ]
+    },
+    {
+        "id": "gen_ln_2",
+        "name": "2 Phulka + Mixed Vegetable Sabzi + Boiled Dal",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Medium",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "ASC096"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Chapati/Roti"
+        ]
+    },
+    {
+        "id": "gen_ln_3",
+        "name": "Grilled Chicken/Paneer Salad with Chickpeas",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": false,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_ln_4",
+        "name": "Millet Curd Rice with Grilled Vegetables",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Lunch"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC126"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)"
+        ]
+    },
+    {
+        "id": "gen_dn_1",
+        "name": "Clear Vegetable Soup + 1 slice Multigrain Bread",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "ASC480"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Vegetable soup"
+        ]
+    },
+    {
+        "id": "gen_dn_2",
+        "name": "Stir-fried Tofu/Paneer with Broccoli and Bell Peppers",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Regular",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_dn_3",
+        "name": "Steamed Sprouts with Black Salt and Jeera",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Dinner",
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_dn_4",
+        "name": "Tomato & Basil Soup + Grilled Mushroom on Toast",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Dinner"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": false,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_sn_1",
+        "name": "Roasted Pumpkin Seeds & Sunflower Seeds (1 tbsp)",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": true
+        },
+        "food_codes": [
+            "H020"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Sunflower seeds"
+        ]
+    },
+    {
+        "id": "gen_sn_2",
+        "name": "1 Small Apple / Pear with Cinnamon powder",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Crunchy",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": false
+        },
+        "food_codes": [
+            "E003"
+        ],
+        "AI_MATCHED_NAMES": [
+            "Apple, small"
+        ]
+    },
+    {
+        "id": "gen_sn_3",
+        "name": "Greek Yogurt / Thick Curd with Flax Seeds",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Snack"
+        ],
+        "tags": {
+            "texture": "Soft",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": false,
+            "contains_dairy": true,
+            "is_spicy": false,
+            "renal_safe": true,
+            "protein_rich": true
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    },
+    {
+        "id": "gen_sn_4",
+        "name": "Green Smoothie (Spinach + Cucumber + Lemon + Ginger)",
+        "region": [
+            "General"
+        ],
+        "slots": [
+            "Snack",
+            "Breakfast"
+        ],
+        "tags": {
+            "texture": "Liquid",
+            "gi": "Low",
+            "veg": true,
+            "gluten_free": true,
+            "weight_loss_friendly": true,
+            "elderly_friendly": true,
+            "is_vegan": true,
+            "contains_dairy": false,
+            "is_spicy": false,
+            "renal_safe": false,
+            "protein_rich": false
+        },
+        "food_codes": [],
+        "AI_MATCHED_NAMES": []
+    }
+]
