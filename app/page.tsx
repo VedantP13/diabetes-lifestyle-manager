@@ -609,7 +609,7 @@
 //                 >
 //                   Start Assessment <ArrowRight size={20} />
 //                 </button>
-                
+
 //                 {/* --- NEW DEV BUTTON --- */}
 //                 <button
 //                   onClick={() => handleSurveyComplete(DUMMY_ANSWERS)}
@@ -653,26 +653,26 @@
 //           {/* Reduced vertical padding (py-6) and optimized for single-line on desktop */}
 //           <div className="bg-teal-900 border-b border-teal-800 py-6 px-4 relative z-10 shadow-sm">
 //             <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 md:gap-8">
-              
+
 //               {/* Left: Primary Title */}
 //               <h2 className="text-2xl md:text-3xl font-heading font-bold text-white tracking-tight text-center md:text-left">
 //                 {userProfile.name ? `${userProfile.name}'s` : 'Your'} Transformation Plan
 //               </h2>
-              
+
 //               {/* Right: Contextual Details (Single line on Desktop) */}
 //               <div className="flex flex-wrap items-center justify-center md:justify-end gap-3 md:gap-5 text-sm md:text-base font-medium text-teal-100/90">
 //                 <span className="hidden md:inline text-teal-600/50 text-lg">|</span>
-                
+
 //                 <span className="opacity-90">{userProfile.region} Region</span>
-                
+
 //                 <span className="w-1 h-1 rounded-full bg-teal-600"></span>
-                
+
 //                 <span className={userProfile.bmi > 25 ? 'text-amber-300 font-bold' : 'text-emerald-300 font-bold'}>
 //                    BMI {userProfile.bmi}
 //                 </span>
 
 //                 <span className="w-1 h-1 rounded-full bg-teal-600"></span>
-                
+
 //                 <button 
 //                   onClick={handleReset}
 //                   className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-teal-400 hover:text-white transition-colors bg-teal-800/50 px-3 py-1.5 rounded-full border border-teal-700 hover:border-teal-500"
@@ -1005,7 +1005,7 @@
 //                 >
 //                   Start Assessment <ArrowRight size={20} />
 //                 </button>
-                
+
 //                 <button
 //                   onClick={() => handleSurveyComplete(DUMMY_ANSWERS)}
 //                   className="flex items-center justify-center gap-2 px-6 py-4 bg-amber-400 text-amber-950 text-sm font-bold rounded-full shadow-sm hover:bg-amber-500 transition-all active:scale-95"
@@ -1306,7 +1306,7 @@ export default function Home() {
 
   const handleSurveyComplete = async (answers: any) => {
     setView('loading');
-    
+
     // 1. Build the perfect profile locally
     const completeProfile = buildProfileLocally(answers);
     setUserProfile(completeProfile);
@@ -1321,7 +1321,7 @@ export default function Home() {
       const response = await fetch('/api/generate-plan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ profile: completeProfile }) 
+        body: JSON.stringify({ profile: completeProfile })
       });
 
       if (!response.ok) throw new Error('AI Generation failed');
@@ -1330,7 +1330,7 @@ export default function Home() {
 
       // 3. ONLY take the dynamic 7-Day Meal Plan from the AI
       setPlan(aiData.plan);
-      
+
       setView('report');
     } catch (error) {
       console.warn("Falling back to local engines due to AI error:", error);
@@ -1361,7 +1361,7 @@ export default function Home() {
     <main className="min-h-screen bg-canvas-50 text-brand-950 font-body pb-16">
       {view === 'intro' && (
         <div className="min-h-screen flex items-center justify-center p-6 bg-gradient-to-br from-brand-50/30 via-white to-white">
-          <div className="max-w-6xl w-full grid md:grid-cols-2 gap-12 items-center">
+          <div className="max-w-7xl w-full grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-20 items-center">
             <div className="text-center md:text-left space-y-8 animate-slideUp">
               <div>
                 {/* <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-brand-200 bg-white shadow-sm mb-8">
@@ -1385,7 +1385,7 @@ export default function Home() {
                   Start Assessment <ArrowRight size={20} />
                 </button>
                 <button onClick={() => handleSurveyComplete(DUMMY_ANSWERS)} className="flex items-center justify-center gap-2 px-6 py-4 bg-amber-400 text-amber-950 text-sm font-bold rounded-full shadow-sm hover:bg-amber-500 transition-all active:scale-95">
-                   Demo Data
+                  Demo Data
                 </button>
                 {hasSavedData && (
                   <button onClick={handleResume} className="flex items-center justify-center gap-2 px-8 py-4 bg-white text-brand-700 border border-brand-200 font-semibold rounded-full shadow-soft hover:bg-brand-50 transition-all active:scale-95">
@@ -1394,8 +1394,11 @@ export default function Home() {
                 )}
               </div>
             </div>
-            <div className="hidden md:flex justify-center items-center relative">
-              <HeroIllustration />
+            {/* Hero Illustration - Visible on Mobile & Desktop */}
+            <div className="flex justify-center items-center relative order-first md:order-last h-[300px] sm:h-[400px] md:h-auto w-full mt-4 md:mt-0">
+              <div className="scale-50 sm:scale-75 md:scale-100 origin-center transition-transform">
+                <HeroIllustration />
+              </div>
             </div>
           </div>
         </div>
@@ -1410,8 +1413,8 @@ export default function Home() {
       {view === 'loading' && (
         <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-gradient-to-br from-brand-50/30 via-white to-white">
           <div className="relative w-24 h-24 mb-10">
-             <div className="absolute inset-0 border-4 border-teal-100 rounded-full"></div>
-             <div className="absolute inset-0 border-4 border-teal-600 rounded-full border-t-transparent animate-spin"></div>
+            <div className="absolute inset-0 border-4 border-teal-100 rounded-full"></div>
+            <div className="absolute inset-0 border-4 border-teal-600 rounded-full border-t-transparent animate-spin"></div>
           </div>
           <h2 className="text-3xl font-heading font-extrabold text-brand-950 mb-4 animate-pulse text-center">
             Analyzing your metabolic profile...
@@ -1425,7 +1428,7 @@ export default function Home() {
       {/* VIEW 4: THE REPORT */}
       {view === 'report' && plan.length > 0 && userProfile && phenotype && (
         <div className="min-h-screen bg-slate-50 pb-24">
-          
+
           {/* MODERN APP HEADER */}
           <div className="bg-white pt-safe-top pb-6 px-6 rounded-b-5xl shadow-[0_10px_40px_-15px_rgba(0,0,0,0.05)] relative z-20">
             <div className="max-w-3xl mx-auto pt-8">
@@ -1438,9 +1441,9 @@ export default function Home() {
                     {userProfile.name ? `${userProfile.name}'s` : 'Action'} Plan
                   </h2>
                 </div>
-                
+
                 {/* Sleek Restart Button */}
-                <button 
+                <button
                   onClick={handleReset}
                   className="w-12 h-12 bg-slate-50 text-slate-400 hover:text-teal-600 hover:bg-teal-50 rounded-full flex items-center justify-center transition-all active:scale-95"
                   aria-label="Restart Assessment"
@@ -1455,7 +1458,7 @@ export default function Home() {
                   <MapPin size={16} weight="duotone" className="text-slate-400" />
                   <span className="text-xs font-bold text-slate-600 tracking-wide">{userProfile.region}</span>
                 </div>
-                
+
                 <div className={`flex items-center gap-2 px-4 py-2 rounded-2xl border shadow-sm
                   ${userProfile.bmi > 25 ? 'bg-amber-50/50 border-amber-100' : 'bg-emerald-50/50 border-emerald-100'}`}
                 >
@@ -1470,16 +1473,16 @@ export default function Home() {
 
           {/* MAIN CONTENT AREA */}
           <div className="max-w-3xl mx-auto mt-6 relative">
-            <ReportTabs 
+            <ReportTabs
               report={transformationReport}
-              phenotype={phenotype} 
-              plan={plan} 
-              routine={routine} 
-              audit={audit} 
-              userProfile={userProfile} 
-              selectedDay={selectedDay} 
-              setSelectedDay={setSelectedDay} 
-              onSwap={handleSwap} 
+              phenotype={phenotype}
+              plan={plan}
+              routine={routine}
+              audit={audit}
+              userProfile={userProfile}
+              selectedDay={selectedDay}
+              setSelectedDay={setSelectedDay}
+              onSwap={handleSwap}
               onCustomSwap={handleCustomSwap}
             />
           </div>
@@ -1489,9 +1492,9 @@ export default function Home() {
 
           {/* FOOTER */}
           <div className="text-center pt-12 pb-10 px-6">
-             <p className="text-xs text-slate-400 max-w-sm mx-auto leading-relaxed font-medium">
-               This plan is generated based on your inputs and general wellness guidelines. Always consult a healthcare professional before making significant medical changes.
-             </p>
+            <p className="text-xs text-slate-400 max-w-sm mx-auto leading-relaxed font-medium">
+              This plan is generated based on your inputs and general wellness guidelines. Always consult a healthcare professional before making significant medical changes.
+            </p>
           </div>
         </div>
       )}
